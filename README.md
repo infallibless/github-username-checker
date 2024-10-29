@@ -36,7 +36,7 @@ A simple Node.js application to check the availability of GitHub usernames. This
 Run the application using the following command:
 
 ```bash
-node index.js
+node x.js
 ```
 
 The script will read usernames from `usernames.txt`, check their availability, and log the results in the console. Available usernames will be saved in `available.txt`.
